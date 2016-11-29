@@ -14,7 +14,7 @@ WARNING: I used Arduino Uno but any Arduino with at least five digital inputs it
 
 Why the project "Follow Hand" works properly you need the following software are installed on your pc.
 
-- Unity 3D (pro or free license, i used unity 4.6 pro) 
+- Unity 3D (pro or free license, i used unity 4.6.1 pro) 
 - Arduino (install the software and make sure that your device is working properly)
 - Leap Motion (install the software and make sure that your device is working properly)
 
