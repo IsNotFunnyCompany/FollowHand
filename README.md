@@ -20,3 +20,9 @@ Why the project "Follow Hand" works properly you need the following software are
 
 WARNING: The project has been developed with a PC running windows
 
+DONATE: 
+bitcoin:  1BGufqpNCAUcrsz95NDgjEWjNovrbcHaPL
+bitcoin cash: 1DGY4XB7GExHmt6ziybUJLxH3MTYfBdha7
+ethereum: 0xFcFa7C2f116c579DEE0ADD1603bF59EADf27631F
+litecoin: LLMmjCJtgmL1gpBsQk5f7XcAE8GUthmd5r
+
